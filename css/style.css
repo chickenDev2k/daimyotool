@@ -172,6 +172,9 @@ tr > td:last-child {
     height: 30px;
     margin-bottom: 10px;
 }
+input {
+    display: block;
+}
 footer {
     text-align: center;
 }

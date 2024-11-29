@@ -159,10 +159,11 @@ td {
     border: 1px solid #1c0606;
     line-height: 2;
 }
-td:first-child {
+
+tr > td:first-child {
     width: 10%;
 }
-td:last-child {
+tr > td:last-child {
     color: blue;
     width: 30%;
 }
